@@ -1,1 +1,1 @@
-package proxypattern_static
+package proxypattern
